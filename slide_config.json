@@ -1,0 +1,16 @@
+{
+  "NbConvertApp": {
+    "export_format": "slides",
+    "output_base": "index",
+    "use_output_suffix": false
+  },
+  "SlidesExporter": {
+    "reveal_theme": "simple",
+    "reveal_url_prefix": "https://revealjs.com/",
+    "reveal_scroll": true
+  },
+  "TemplateExporter": {
+    "exclude_input_prompt": true,
+    "exclude_output_prompt": true
+  }
+}
